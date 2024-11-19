@@ -148,8 +148,8 @@
                                 <div class="body-title mb-10">Upload Gallery Images</div>
                                 <div class="upload-image mb-16">
                                     <!-- <div class="item">
-                                                                                    <img src="images/upload/upload-1.png" alt="">
-                                                                                </div>                                                 -->
+                                                                                            <img src="images/upload/upload-1.png" alt="">
+                                                                                        </div>                                                 -->
                                     <div id="galUpload" class="item up-load">
                                         <label class="uploadfile" for="gFile">
                                             <span class="icon">
@@ -295,5 +295,6 @@
                 .replace(/[^\w ]+/g, "") // Remove non-alphanumeric characters except spaces
                 .replace(/ +/g, "-"); // Replace spaces with hyphens
         }
+        //the first comment for checking git push
     </script>
 @endpush
